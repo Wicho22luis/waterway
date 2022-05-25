@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WaterWay</string>
+    <string name="estado">Estado del Motor</string>
+    <string name="esperando">Cargando...</string>
+    <string name="conectado">Conectado</string>
+    <string name="desconectado">Desconectado</string>
+    <string name="motor">Acción hacia el motor</string>
+    <string name="encender">Encender</string>
+    <string name="apagar">Apagar</string>
+    <string name="nNotif">Nueva Notificación</string>
+    <string name="placaOff">Motor apagagdo</string>
+    <string name="placaOff2">El motor está apagado, revisa la conexión a la corriente</string>
+    <!--My Strings-->
+    <string name="motor_Title">Motor</string>
+    <string name="solids_Title">Solidos</string>
+    <string name="ph_Title">Agua: Neutra</string>
+    <string name="level_Title">Nivel de agua</string>
+    <string name="slogan">Limpia, Reutiliza y Ahorra</string>
+</resources>

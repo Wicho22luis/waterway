@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70711378277",
+    "project_id": "waterway-e3f99",
+    "storage_bucket": "waterway-e3f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70711378277:android:8aae13f05581a987f6618c",
+        "android_client_info": {
+          "package_name": "com.Wdevelopers.waterway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70711378277-lqg0rem7kl45tk4pihj4ccmnmod7fus3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRY08QLu-RCq3DzC3R6_CI0SQwO5pS68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70711378277-lqg0rem7kl45tk4pihj4ccmnmod7fus3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
